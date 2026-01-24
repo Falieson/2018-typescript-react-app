@@ -15,7 +15,7 @@
     "graphql-tag": "2.9.2",
     "gx": "1.0.0-rc4",
     "react": "16.4.1",
-    "react-apollo": "2.1.5",
+    "react-apollo": "2.1.7",
     "react-dom": "16.4.1",
     "react-helmet": "5.2.0",
     "react-router-dom": "4.3.1"
